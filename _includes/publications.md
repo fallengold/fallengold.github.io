@@ -20,7 +20,6 @@
         {% if paper.code %}<a href="{{ paper.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
         {% if paper.page %}<a href="{{ paper.page }}" target="_blank" rel="noopener">Project Page</a>{% endif %}
         {% if paper.bibtex %}<a href="{{ paper.bibtex }}" target="_blank" rel="noopener">BibTeX</a>{% endif %}
-        {% if paper.image_link %}<a href="{{ paper.image_link }}" target="_blank" rel="noopener">Figure PDF</a>{% endif %}
         {% if paper.notes %}<span class="publication-note">{{ paper.notes }}</span>{% endif %}
       </div>
       {% if paper.summary %}
