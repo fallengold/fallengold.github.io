@@ -4,20 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Dan Xu. I received my undergraduate degree from HKUST, where I studied Mathematics and Computer Science. My research interests include multimodal large language models, 3D graphics, embodied AI, and robotics.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Previously, I spent a year at SenseTime as an intern working on multimodal large language models. I also served as the embedded systems lead (PIC) for HKUST ENTERPRIZE, the university's RoboMaster team.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2026]** BlenderFORGE has been accepted to **NeurIPS 2026**!
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
