@@ -10,6 +10,6 @@ Alongside my research interests, I have hands-on experience in multimodal AI and
 
 ## News
 
-- **[2026]** BlenderFORGE has been accepted to **NeurIPS 2026**!
+- **[2026.9]** BlenderFORGE has been accepted to **NeurIPS 2026**!
 
 {% include_relative _includes/publications.md %}
